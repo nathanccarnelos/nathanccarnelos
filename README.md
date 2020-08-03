@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<a href="https://twitter.com/nathan_carnelos"><img src="https://img.shields.io/twitter/follow/nathan_carnelos?label=%40nathan_carnelos&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/nathan-coutinho-carnelos/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
