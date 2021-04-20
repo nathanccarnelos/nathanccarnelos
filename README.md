@@ -2,7 +2,7 @@
 
 I'm Nathan!
 
-Currently working at <a href="https://www.ntopus.com.br" nTopus </a> as a front-end developer using Vuejs<img height="17"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png"/>  
+Currently working at <a href="https://www.ntopus.com.br"> nTopus </a> as a front-end developer using Vuejs<img height="17"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png"/>  
 
 Bachelor in computer science.
 
