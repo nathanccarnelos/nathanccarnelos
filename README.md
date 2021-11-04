@@ -2,7 +2,7 @@
 
 I'm Nathan!
 
-Currently working at <a href="https://www.azion.com/en/"> Azion </a>
+Currently working at <a href="https://globoplay.globo.com/"> Globo </a>
 
 Bachelor in computer science.
 
